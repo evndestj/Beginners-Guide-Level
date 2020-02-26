@@ -1,9 +1,7 @@
-fps_checkin/Library/
-fps_checkin/Temp/
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uilds/
+/fps_checkin/[Ll]ibrary/
+/fps_checkin/[Tt]emp/
+/fps_checkin/[Oo]bj/
+/fps_checkin/[Bb]uilds/
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
